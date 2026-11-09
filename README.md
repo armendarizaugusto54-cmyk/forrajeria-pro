@@ -9,3 +9,6 @@ Desde `ejemplo-php`, ejecutar `php demo.php` con la extensión `pdo_sqlite` habi
 Incluye búsqueda de productos, alta de productos y venta con descuento de stock mediante transacción y consultas preparadas. El ejemplo usa SQLite en memoria; no crea archivos de base de datos.
 
 Este código es una muestra educativa, no un sistema comercial completo.
+## Captura del sistema
+
+![Dashboard de Forrajería PRO](dashboard.png)
