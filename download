@@ -1,16 +1,8 @@
-# Bases de datos, respaldos y datos de clientes
 *.sqlite
 *.sqlite3
 *.db
 *.bak
-*.backup
-private_data/
-archived_companies/
-# Credenciales y configuración local
 .env
 .env.*
-config.local.php
-secrets.php
-# Archivos temporales
-*.log
-.DS_Store
+backup/
+backups/
